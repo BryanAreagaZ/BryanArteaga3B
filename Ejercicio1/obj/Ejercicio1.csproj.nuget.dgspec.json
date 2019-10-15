@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josym\\source\\repos\\JosselynMacia3B\\Ejercicio1\\Ejercicio1.csproj": {}
+    "C:\\Users\\josym\\source\\repos\\Ejercicio1\\Ejercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josym\\source\\repos\\JosselynMacia3B\\Ejercicio1\\Ejercicio1.csproj": {
+    "C:\\Users\\josym\\source\\repos\\Ejercicio1\\Ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josym\\source\\repos\\JosselynMacia3B\\Ejercicio1\\Ejercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\josym\\source\\repos\\Ejercicio1\\Ejercicio1.csproj",
         "projectName": "Ejercicio1",
-        "projectPath": "C:\\Users\\josym\\source\\repos\\JosselynMacia3B\\Ejercicio1\\Ejercicio1.csproj",
+        "projectPath": "C:\\Users\\josym\\source\\repos\\Ejercicio1\\Ejercicio1.csproj",
         "packagesPath": "C:\\Users\\josym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josym\\source\\repos\\JosselynMacia3B\\Ejercicio1\\obj\\",
+        "outputPath": "C:\\Users\\josym\\source\\repos\\Ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josym\\AppData\\Roaming\\NuGet\\NuGet.Config",
