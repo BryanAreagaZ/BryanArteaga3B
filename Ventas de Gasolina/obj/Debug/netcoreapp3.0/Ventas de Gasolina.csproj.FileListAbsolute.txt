@@ -1,0 +1,11 @@
+C:\Users\josym\source\repos\Ventas de Gasolina\bin\Debug\netcoreapp3.0\Ventas de Gasolina.exe
+C:\Users\josym\source\repos\Ventas de Gasolina\bin\Debug\netcoreapp3.0\Ventas de Gasolina.deps.json
+C:\Users\josym\source\repos\Ventas de Gasolina\bin\Debug\netcoreapp3.0\Ventas de Gasolina.runtimeconfig.json
+C:\Users\josym\source\repos\Ventas de Gasolina\bin\Debug\netcoreapp3.0\Ventas de Gasolina.runtimeconfig.dev.json
+C:\Users\josym\source\repos\Ventas de Gasolina\bin\Debug\netcoreapp3.0\Ventas de Gasolina.dll
+C:\Users\josym\source\repos\Ventas de Gasolina\bin\Debug\netcoreapp3.0\Ventas de Gasolina.pdb
+C:\Users\josym\source\repos\Ventas de Gasolina\obj\Debug\netcoreapp3.0\Ventas de Gasolina.csprojAssemblyReference.cache
+C:\Users\josym\source\repos\Ventas de Gasolina\obj\Debug\netcoreapp3.0\Ventas de Gasolina.AssemblyInfoInputs.cache
+C:\Users\josym\source\repos\Ventas de Gasolina\obj\Debug\netcoreapp3.0\Ventas de Gasolina.AssemblyInfo.cs
+C:\Users\josym\source\repos\Ventas de Gasolina\obj\Debug\netcoreapp3.0\Ventas de Gasolina.dll
+C:\Users\josym\source\repos\Ventas de Gasolina\obj\Debug\netcoreapp3.0\Ventas de Gasolina.pdb
